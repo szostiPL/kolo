@@ -5,4 +5,12 @@ def create_line(x, y):
 
     """
     return [(1,1),(2,2),(3,3)(4,4)]
-    
+
+def create_square():
+    """
+    Returns list of tuples which are coordinates
+    of a square created in cartesian coordinate system
+    """
+    return [(0,0),(4,0),(0,4),(4,4)]
+
+
