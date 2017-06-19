@@ -13,4 +13,12 @@ def create_square():
     """
     return [(0,0),(4,0),(0,4),(4,4)]
 
+def measure_angle(line, wall):
+    """
+    Returns angle between given line and given wall
+
+    line -- formula of a line
+    wall -- formula of a wall line
+    """
+    return 43
 
